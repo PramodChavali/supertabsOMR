@@ -1,3 +1,16 @@
+**FORK OF OEMER**
+
+This is a fork of the OMR system made by BreezeWhite. The original OMR needs the sheet music to have treble and bass clef to work, meaning it only works with piano. This fork is still in development, but aims to allow it to work even if one clef is missing.
+
+
+
+
+
+
+
+
+
+
 # Oemer (End-to-end OMR)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BreezeWhite/oemer/blob/main/colab.ipynb)
